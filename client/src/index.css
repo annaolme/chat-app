@@ -42,7 +42,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     flex: 1; overflow-y: auto; padding: 20px;
     display: flex; flex-direction: column; gap: 10px;
 }
-.message { max-width: 70%; }
+.message { max-width: 65%; }
 .message.own { align-self: flex-end; }
 .message .sender { font-size: 0.8em; color: #666; margin-bottom: 3px; }
 .message .text {
