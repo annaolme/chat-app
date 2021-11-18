@@ -40,3 +40,5 @@ Server runs on port 4000, client on port 3000.
 Join a room, pick a username, and start chatting!
 
 Set PORT env variable to change the default port.
+
+Events: join, message, disconnect
