@@ -42,3 +42,4 @@ Join a room, pick a username, and start chatting!
 Set PORT env variable to change the default port.
 
 Events: join, message, disconnect
+ 
