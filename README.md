@@ -43,3 +43,5 @@ Set PORT env variable to change the default port.
 
 Events: join, message, disconnect
  
+
+Shows when other users are typing.
